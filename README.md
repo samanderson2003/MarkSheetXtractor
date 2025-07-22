@@ -1,16 +1,28 @@
-# marksheet
+# 📝 MarkSheetXtractor
 
-A new Flutter project.
+MarkSheetXtractor is a tool that scans or uploads multiple marksheet images, extracts 2-mark and 10-mark question scores, and generates a structured Excel file for download.
 
-## Getting Started
+## 🔧 Features
+- Upload or scan multiple marksheets
+- Extract 2-mark and 10-mark answers separately
+- Export data into a neatly formatted Excel sheet
 
-This project is a starting point for a Flutter application.
+## 📦 Output Format
+- Registration Number
+- Part A (Q1–Q10, 2 marks each)
+- Part B (Q11–Q14, 10 marks each — any 3)
+- Total & Percentage
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Tech Used
+- OCR & AI for data extraction
+- Excel generator (e.g., ExcelJS / xlsx)
+- Flutter & Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📥 Usage
+1. Upload/scan marksheets
+2. Extracted data auto-filled
+3. Download Excel report
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Made with 💻 by Sam Anderson
