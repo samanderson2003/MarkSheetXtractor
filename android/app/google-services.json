@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034865008249",
+    "project_id": "marksheet-scanner",
+    "storage_bucket": "marksheet-scanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034865008249:android:53db957b323483434dbea8",
+        "android_client_info": {
+          "package_name": "com.example.marksheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034865008249-nkk16qr9pesefd22ff52ruajcf008ov8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marksheet",
+            "certificate_hash": "186b5045c2b1bf4562b73a2a7047b15f7e873c8c"
+          }
+        },
+        {
+          "client_id": "1034865008249-t52u6qb20muc1bs0v1anvrp7j9kvs65f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5A0T1S4MzRC0b5g_xelumtU9oI-Le0Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034865008249-t52u6qb20muc1bs0v1anvrp7j9kvs65f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
