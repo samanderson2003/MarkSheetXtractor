@@ -25,4 +25,3 @@ MarkSheetXtractor is a tool that scans or uploads multiple marksheet images, ext
 
 ---
 
-Made with 💻 by Sam Anderson
